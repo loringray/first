@@ -1,0 +1,14 @@
+test
+why notepad file can not see?
+
+
+test git status  and git diff 
+To see how the file code has changed?
+
+The third
+git is a  free software distributed under the GPL.
+
+The four
+git has a mutable index called stage.
+
+
