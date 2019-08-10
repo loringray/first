@@ -13,4 +13,4 @@ git has a mutable index called stage.
 
 
 the six 
-create a new branch is quick.
+create a new branch is quick && simple.
