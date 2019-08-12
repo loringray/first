@@ -1,7 +1,6 @@
 test
 why notepad file can not see?
 
-
 test git status  and git diff 
 To see how the file code has changed?
 
@@ -21,3 +20,7 @@ create a new branch is quick and simple.
 
 the seven 
 git branch no ff
+
+the eight
+save the git add bug
+
