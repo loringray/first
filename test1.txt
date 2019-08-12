@@ -21,6 +21,11 @@ create a new branch is quick and simple.
 the seven 
 git branch no ff
 
+<<<<<<< HEAD
 the eight
 save the git add bug
+=======
+test git dev bug and git stash
+
+>>>>>>> devNoff
 
